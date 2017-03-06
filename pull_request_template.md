@@ -1,20 +1,24 @@
-**Changes proposed**:
+[//]: # (Lösche die Abschnitte, die du nicht brauchst. Nutze die Voransicht. Gib unbedingt einen gültigen Hash an.)
+[//]: # (ACHTUNG: Betrifft dein Vorschlag nur SQL, erstelle bitte stattdessen ein Ticket.)
+[//]: # (VORSCHLAG: Enthält dein Vorschlag SQL, gib ihm ein unmögliches Datum wie 9999_99_99_99_database.sql, so dass es einfach eingepflegt werden kann.)
+## Änderungsvorschläge
+[//]: # (Liste die vorgeschlagenen Änderungen auf.)
 
-- 
-- 
-- 
+-
+-
+-
 
-**Target branch(es)**: 335/6x
+**Betroffene Probleme**: Schließt #
 
-**Issues addressed**: Closes #
+## Durchgeführte Tests
+[//]: # (Funktioniert das Compilieren? Wurden die Änderungen im Spiel getestet?)
 
-**Tests performed**: (Does it build, tested in-game, etc)
+**Hash/Commit**:  
+**Betriebssystem**:  
 
-**Known issues and TODO list**:
+## Aufgabenliste
+[//]: # (Liste bekannte Probleme und noch zu lösende Aufgaben auf.)
 
 - [ ] 
 - [ ] 
-
-**NOTE** If your Pull Request is SQL only create a ticket instead
-
-**SUGESTION** If your Pull Request contains SQL give it one imposible date, for example 9999_99_99_99_database.sql on that way it will be free on merge.
+- [ ] 
